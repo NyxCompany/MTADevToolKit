@@ -1,34 +1,38 @@
-# [Nome do Módulo]
+# 🚀 MTADevToolKit
 
-> Descrição breve do módulo em uma frase objetiva.
+> **Toolkit completo para desenvolvedores de MTA:SA**, unindo produtividade, padronização e inovação em um único repositório.
 
 ---
 
 ## ✨ **Visão Geral**
 
-Explique de forma clara o propósito do módulo, problemas que resolve e para quem ele foi projetado.
+O **MTADevToolKit** é um conjunto de ferramentas criado para **acelerar, padronizar e potencializar** o desenvolvimento de resources no Multi Theft Auto: San Andreas. Seu objetivo é fornecer soluções inovadoras e organizadas para desenvolvedores que buscam criar resources profissionais com mais rapidez, segurança e clareza.
 
 ---
 
-## 🚀 **Funcionalidades**
+## 🛠️ **Módulos Principais**
 
-✅ Lista clara e objetiva:
-
-- [ ] Funcionalidade 1  
-- [ ] Funcionalidade 2  
-- [ ] Funcionalidade 3
+| Módulo | Descrição | Status |
+|--------|-----------|--------|
+| **CLI Resource Manager** | Gerencia resources via linha de comando: cria, lista, remove e gera meta.xml automaticamente. | 🟢 Em desenvolvimento |
+| **UI Framework** | Controles customizados (Buttons, Panels, Layouts) com suporte a eventos, alinhamento e animações. | 🔵 Planejado |
+| **NetUtils** | Abstração de eventos server-client com micro camada RPC para comunicação simplificada. | 🔵 Planejado |
+| **Code Snippets Library** | Coleção de funções utilitárias para dxDraw, ACL, commands e event handling. | 🔵 Planejado |
+| **Assets & Icons Pack** | Biblioteca de ícones e imagens para interfaces HUD/UI. | 🔵 Planejado |
+| **Protection System** | Sistema de proteção de resources premium via unique keys ou validação online. | 🔵 Planejado |
+| **Transpile Engine (Experimental)** | Transpilação parcial de C#/TypeScript para Lua, gerando bases para resources. | 🔴 Experimental |
 
 ---
 
-## 🔧 **Como Usar**
+## 💻 **Como Usar**
 
 ### 📌 **Pré-requisitos**
 
-Liste qualquer dependência necessária.
+- Lua 5.3+ instalado
+- Multi Theft Auto: San Andreas (Servidor local ou remoto configurado)
 
-### 💻 **Exemplo de Uso**
+### 🔧 **Clone o repositório**
 
-```lua
--- Exemplo mínimo de como usar o módulo
-local mymodule = require("modulename")
-mymodule.doSomething()
+```bash
+git clone https://github.com/teuusername/MTADevToolKit.git
+cd MTADevToolKit
