@@ -36,3 +36,14 @@ O **MTADevToolKit** é um conjunto de ferramentas criado para **acelerar, padron
 ```bash
 git clone https://github.com/mydeg/MTADevToolKit.git
 cd MTADevToolKit
+
+```
+---
+
+### ✅ **Próximos passos sugeridos**
+
+1. **Crie a pasta `/docs`** para armazenar READMEs dos módulos.  
+2. Atualize o link `./docs` para apontar para o índice de módulos, assim que criado.  
+3. Confirme se deseja também um **modelo de contribuição (CONTRIBUTING.md)** e um **CODE_OF_CONDUCT.md** para padronizar contribuições desde o início.
+
+Caso queira, posso gerar esses arquivos agora para fortalecer o teu repositório como um **projeto open-source profissional, confiável e escalável**.
