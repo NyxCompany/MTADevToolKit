@@ -34,5 +34,5 @@ O **MTADevToolKit** é um conjunto de ferramentas criado para **acelerar, padron
 ### 🔧 **Clone o repositório**
 
 ```bash
-git clone https://github.com/teuusername/MTADevToolKit.git
+git clone https://github.com/mydeg/MTADevToolKit.git
 cd MTADevToolKit
