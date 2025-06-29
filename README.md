@@ -28,7 +28,7 @@ O **MTADevToolKit** é um conjunto de ferramentas criado para **acelerar, padron
 
 ### 📌 **Pré-requisitos**
 
-- Lua 5.3+ instalado
+- Lua 5.1+ instalado
 - Multi Theft Auto: San Andreas (Servidor local ou remoto configurado)
 
 ### 🔧 **Clone o repositório**
